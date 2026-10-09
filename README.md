@@ -6,6 +6,8 @@ Die Texte entstehen auf Deutsch oder Englisch, je nach Auftrag. Die Stimme legt 
 
 Es wird nichts gepostet, nichts abgefragt und nichts gescraped. Am Ende liegt ein Block zum Kopieren.
 
+Anleitung: [Instagram-Skills für Claude](https://thanisch.co/wissen/guides/instagram-skills-claude).
+
 ## Installieren
 
 Den Ordner nach `~/.claude/skills/instagram-agent/` legen und in Claude Code `/reload-plugins` ausführen. Ein Ordner mit `.claude-plugin/plugin.json` an dieser Stelle lädt als Plugin.
@@ -77,3 +79,7 @@ python3 -m unittest discover tests
 ## Grenzen
 
 Kein Login, kein Passwort, kein Crawler, kein Posten, kein Kommentieren und kein DM durch das Plugin. Die Keyword-Antwort ist ein Text für die Funktion, die Instagram selbst dafür hat. Sie setzt voraus, dass jemand zuerst das Wort schreibt.
+
+## Lizenz
+
+MIT. Siehe [LICENSE](LICENSE).
