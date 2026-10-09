@@ -1,0 +1,7 @@
+{
+  "name": "instagram-agent",
+  "displayName": "Instagram Agent",
+  "version": "0.1.0",
+  "description": "Schreibt Instagram-Entwürfe auf Deutsch oder Englisch: Reels, Captions, Stories, Kommentare, DMs und einen Wochenplan. Prüft Hooks, Timing und Floskeln lokal. Postet nichts.",
+  "keywords": ["instagram", "reels", "captions", "hooks", "german", "english"]
+}
